@@ -1,4 +1,7 @@
 ### Hi there 👋
+ A former business owner enthusiastic about the World of Data. Welcome to my respositories. 
+ - I’m currently learning Power BI, SQL, Python and more... 
+ - The repositories include some showcases I have done in data analytics.
 
 <!--
 **xufeishao/xufeishao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

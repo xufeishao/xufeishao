@@ -1,8 +1,6 @@
 ### Hi there 👋
- A former business owner enthusiastic about the World of Data. Welcome to my respositories. 
- - I’m currently learning Power BI, SQL, Python and more... 
- - The repositories include some showcases I have done in data analytics.
- - Thanks for visiting!
+A business-minded practitioner with 20 years of diverse experience in business innovation, entrepreneurship and investment. Founded a food delivery startup and gained deep understanding of big data-driven business operations. Currently on a career break for career reorientation and upskilling. My skill set includes using SQL, Python, Power BI, Tableau, advanced Excel for data analysis, machine learning and cloud computing.
+
 
 <!--
 **xufeishao/xufeishao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

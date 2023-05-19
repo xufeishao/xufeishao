@@ -1,5 +1,5 @@
 ### Hi there 👋
-A business-minded practitioner with 20 years of diverse experience in business innovation, entrepreneurship and investment. Founded a food delivery startup and gained deep understanding of big data-driven business operations. Currently on a career break for career reorientation and upskilling. My skill set includes using SQL, Python, Power BI, Tableau, advanced Excel for data analysis, machine learning and cloud computing.
+I'm a business-minded practitioner with 20 years of diverse experience in business innovation, entrepreneurship and investment. Founded a food delivery startup and gained deep understanding of big data-driven business operations. Currently on a career break for career reorientation and upskilling. My skill set includes using SQL, Python, Power BI, Tableau, advanced Excel for data analysis, machine learning and cloud computing.
 
 
 <!--
